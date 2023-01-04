@@ -32,12 +32,12 @@ _Me chamo Renato, estou cursando **Ciência da computação**_ 💻
 
 ### Links úteis
 
-<ul>
-    <li><a href="https://en.wikipedia.org/wiki/Hobbit#Lifestyle" title="Hobbit lifestyles">A descrever</a></li>
-        <li><a href="https://en.wikipedia.org/wiki/Hobbit#Lifestyle" title="Hobbit lifestyles">A descrever</a></li>
-        <li><a href="https://en.wikipedia.org/wiki/Hobbit#Lifestyle" title="Hobbit lifestyles">A descrever</a></li>
-        <li><a href="https://en.wikipedia.org/wiki/Hobbit#Lifestyle" title="Hobbit lifestyles">A descrever</a></li>
-        <li><a href="https://en.wikipedia.org/wiki/Hobbit#Lifestyle" title="Hobbit lifestyles">A descrever</a></li>
-        <li><a href="https://en.wikipedia.org/wiki/Hobbit#Lifestyle" title="Hobbit lifestyles">A descrever</a></li>
-        <li><a href="https://en.wikipedia.org/wiki/Hobbit#Lifestyle" title="Hobbit lifestyles">A descrever</a></li>
-</ul>
+**[Tabela de cores Exadecimal e RGB](https://erikasarti.com/html/tabela-cores)**
+**[Tabela de cores Exadecimal e RGB](https://erikasarti.com/html/tabela-cores)**
+**[Tabela de cores Exadecimal e RGB](https://erikasarti.com/html/tabela-cores)**
+**[Tabela de cores Exadecimal e RGB](https://erikasarti.com/html/tabela-cores)**
+**[Tabela de cores Exadecimal e RGB](https://erikasarti.com/html/tabela-cores)**
+**[Tabela de cores Exadecimal e RGB](https://erikasarti.com/html/tabela-cores)**
+**[Tabela de cores Exadecimal e RGB](https://erikasarti.com/html/tabela-cores)**
+**[Tabela de cores Exadecimal e RGB](https://erikasarti.com/html/tabela-cores)**
+
