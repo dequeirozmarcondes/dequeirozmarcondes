@@ -3,7 +3,7 @@
 **Atenção! Alguns links não estão funcionando. Mas fique a vontade para entrar em contato** 😄
 
 ### 🚀 Sobre mim
-Sou apaixonado por tecnologia e inovações. 
+Apaixonado por tecnologia e inovações. 
 
 Estou cursando _Bacharel em Ciência da Computação_ 💻 
 
