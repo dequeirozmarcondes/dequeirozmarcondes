@@ -46,3 +46,9 @@ Estou cursando _Bacharel em Ciência da Computação_ 💻
 **[Tabela de cores Exadecimal e RGB](https://erikasarti.com/html/tabela-cores)**
 
 **[Badges for Github](https://dev.to/envoy_/150-badges-for-github-pnk)**
+
+**[Devdocs - Documentações de API's diversos](https://devdocs.io/)**
+
+**[Freecode Camp - Learn Programing](https://www.freecodecamp.org/)**
+
+**[The Odin Project - Learn Programing](https://www.theodinproject.com)**
