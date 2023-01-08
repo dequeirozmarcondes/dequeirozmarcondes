@@ -52,3 +52,5 @@ Estou cursando _Bacharel em Ciência da Computação_ 💻
 **[Freecode Camp - Learn Programing](https://www.freecodecamp.org/)**
 
 **[The Odin Project - Learn Programing](https://www.theodinproject.com)**
+
+**[Flexbox Guia - Origamid](https://www.origamid.com/projetos/flexbox-guia-completo/)**
